@@ -2,10 +2,11 @@ Fungible Token Project on Flow Blockchain
 
 Welcome to the Fungible Token Project repository. This repository is dedicated to a comprehensive implementation of a custom Fungible Token contract on the Flow blockchain, accompanied by a suite of transactions and scripts. The project is meticulously segmented into various parts, each focusing on different facets of token management and interactions.
 
-Overview
+Overview-
 
 .Core Contract Implementation
-.Contract - FlowToken:
+
+Contract - FlowToken:
 
 Introduces the FlowToken contract encapsulating key features like:
 
